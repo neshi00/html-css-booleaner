@@ -16,6 +16,50 @@ header{
     margin-bottom: 0;
 }
 
+.evidenziato{
+    background-color: yellow;
+}
+
+table{
+    width: 100%;
+}
+
+th{
+    width: 150px;
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+
+tr{
+    background-color: lightskyblue;
+}
+
+#riga_bianca{
+    background-color: white;
+}
+
+.correlati{
+    color: grey;
+}
+
+.articoli-correlati-1{
+    color: white;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    font-size: x-large;
+}
+
+#secondo-correlato{
+    background-image: url(../img/graph.jpg);
+}
+
+
+
+
+
 
 
 
