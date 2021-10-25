@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(136, 184, 238);
+    background-image: url(../img/pattern.png);
+    height: 150px;
+    color: white;
+    font-size: xx-large;
+}
+
+.titolo-notizia h1{
+    font-size: xx-large;
+    margin-bottom: 0;
+}
+
+.titolo-notizia p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+
+
+
