@@ -1,13 +1,18 @@
+.container{
+    width: 1200px;
+}
+
 header{
-    background-color: rgb(136, 184, 238);
-    background-image: url(../img/pattern.png);
-    height: 150px;
-    color: white;
-    font-size: xx-large;
+    background: #4ea0ff url(../img/pattern.png);
+    height: 200px;
+}
+
+header img{
+    width: 200px;
+    margin-top: 130px;
 }
 
 .titolo-notizia h1{
-    font-size: xx-large;
     margin-bottom: 0;
 }
 
@@ -22,6 +27,7 @@ header{
 
 table{
     width: 100%;
+    border-spacing: 0;
 }
 
 th{
